@@ -1,4 +1,4 @@
-# CPS803-Suicide-Detection
+# BINF-5507-Suicide-Detection
 
 ### Abstract
 Project uses MLP (Multi-Layer Perceptron) to detect probable suicide messages based on social media posts, distinguishing Reddit posts that indicate suicide and non-suicide.
