@@ -1,0 +1,23 @@
+name: suicide-detection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - pandas
+    - numpy
+    - scikit-learn
+    - torch
+    - transformers
+    - tokenizers
+    - nltk
+    - matplotlib
+    - scipy
+    - joblib
+    - tqdm
+    - requests
+    - pyyaml
+    - regex
+    - packaging
