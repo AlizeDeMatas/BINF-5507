@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Large dataset files
+datasets/Suicide_Detection.csv
+datasets/Suicide_Detection_tokens.csv
+datasets/Suicide_Detection_tokens1.csv
+datasets/c_Suicide_Detection.csv
+datasets/reddit_depression_suicidewatch_tokens1.csv
+datasets/reddit_depression_suicidewatch_tokens1_predictions.csv

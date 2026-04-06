@@ -6,7 +6,7 @@ import transformers as ppb
 # -------------------------------------------------------
 # CONFIG — change name to 'sample_100' or 'sample_20' etc.
 # -------------------------------------------------------
-name = 'sample_20'
+name = 'sample_100'
 
 '''Import Data'''
 df = pd.read_csv(name + '.csv')
